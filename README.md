@@ -3,6 +3,8 @@ FreeOTP Decoder
 
 Decodes the tokens preference file from [FreeOTP](https://fedorahosted.org/freeotp/) for [Android](https://play.google.com/store/apps/details?id=org.fedorahosted.freeotp).
 
+Outputs tokens as "Name: URI".
+
 URIs are designed to support the Google Authenticator format:  
 https://github.com/google/google-authenticator/wiki/Key-Uri-Format
 
